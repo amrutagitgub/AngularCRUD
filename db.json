@@ -1,20 +1,12 @@
 {
   "posts": [
     {
-      "id": 10,
-      "firstName": "Rima",
-      "lastName": "Ghangale",
-      "email": "rimag123@gmail.com",
-      "mobile": "7854693210",
-      "salary": "80,000"
-    },
-    {
       "id": 11,
-      "firstName": "Amruta",
-      "lastName": "kulkarni",
-      "email": "amjhjrhjnbjnfgbb",
-      "mobile": "789586523",
-      "salary": "25,000"
+      "firstName": "a",
+      "lastName": "a",
+      "email": "a@gmail.com",
+      "mobile": "7878787878",
+      "salary": "12312"
     }
   ],
   "comments": [],
